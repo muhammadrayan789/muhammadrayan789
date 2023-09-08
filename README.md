@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=demo&" alt="" width="100%" />
 
 <!--
 **muhammadrayan789/muhammadrayan789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
